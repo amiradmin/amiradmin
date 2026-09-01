@@ -35,7 +35,8 @@ I'm open to:
 
 The easiest way to start is to:
 
-- [Join a ForgeMind discussion](https://github.com/amiradmin/ForgeMind/discussions)
+- [Pick a focused ForgeMind contribution](https://github.com/amiradmin/ForgeMind/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22help%20wanted%22)
+- [Introduce yourself in the community](https://github.com/amiradmin/ForgeMind/discussions/121)
 - [Open a collaboration proposal](https://github.com/amiradmin/ForgeMind/issues/new/choose)
 - Explore the featured repositories and start a technical conversation
 
