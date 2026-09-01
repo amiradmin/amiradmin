@@ -21,6 +21,8 @@ I care about turning AI into useful systems: APIs, operational workflows, mainta
 ### 🚀 [ForgeMind](https://github.com/amiradmin/ForgeMind)
 An open-source **Industrial AI & Enterprise Intelligence Platform** designed to connect assets, telemetry, operations, maintenance, and AI in one modular system. Built around Django/DRF, PostgreSQL, Redis/Celery, Docker, automated testing, and CI.
 
+**Want to contribute?** [Browse curated good first issues](https://github.com/amiradmin/ForgeMind/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22), [see all help-wanted tasks](https://github.com/amiradmin/ForgeMind/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22help%20wanted%22), or [join the Discussions](https://github.com/amiradmin/ForgeMind/discussions).
+
 ### ⚙️ [Lead SLA CRM](https://github.com/amiradmin/lead-sla-crm)
 A production-minded Django REST Framework API for lead assignment, outreach tracking, conversion workflows, and 24-hour SLA enforcement, with explicit business rules, service-layer architecture, OpenAPI documentation, and automated tests.
 
@@ -57,7 +59,8 @@ Good reasons to contact me:
 
 You can also:
 
-- [Pick a focused ForgeMind contribution](https://github.com/amiradmin/ForgeMind/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22help%20wanted%22)
+- [Start with a ForgeMind good first issue](https://github.com/amiradmin/ForgeMind/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22)
+- [Pick a ForgeMind help-wanted contribution](https://github.com/amiradmin/ForgeMind/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22help%20wanted%22)
 - [Introduce yourself in the ForgeMind community](https://github.com/amiradmin/ForgeMind/discussions/121)
 - [Open a collaboration proposal](https://github.com/amiradmin/ForgeMind/issues/new/choose)
 - Explore my public repositories and start a technical conversation
